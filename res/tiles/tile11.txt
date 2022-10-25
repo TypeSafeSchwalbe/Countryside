@@ -1,0 +1,13 @@
+
+# radio station tile - should never appear naturally! -> perlin (almost) impossible
+perlin 0.0 0.0
+
+1 1 1 1 0 1 1 1 1
+1 0 0 0 0 0 0 0 1
+1 0 1 1 1 1 1 0 1
+1 0 1 1 1 1 1 0 1
+0 0 1 1 1 1 1 0 0
+1 0 1 1 1 1 1 0 1
+1 0 1 1 1 1 1 0 1
+1 0 0 0 0 0 0 0 1
+1 1 1 1 0 1 1 1 1

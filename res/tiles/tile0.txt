@@ -1,0 +1,19 @@
+# 0 = nothing
+# 1 = grass
+# 2 = corn
+# 3 = houses & grass
+# 4 = lanterns north & south
+# 5 = lanterns west & east
+# 6 = trees & grass
+
+perlin 0.5 1.0
+
+6 6 6 6 0 6 6 6 6
+6 0 0 0 0 6 6 6 6
+6 0 6 6 6 6 6 6 6
+6 0 6 6 6 6 6 6 6
+0 0 6 6 6 6 6 0 0
+6 6 6 6 6 6 6 0 6
+6 6 6 6 6 6 6 0 6
+6 6 6 6 0 0 0 0 6
+6 6 6 6 0 6 6 6 6
