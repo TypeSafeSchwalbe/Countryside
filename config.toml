@@ -1,0 +1,21 @@
+
+[project]
+name = "Countryside"
+authors = ["DevTaube"]
+version = "0.1.0"
+main_class = "devtaube.countryside.Main"
+vmargs = "-Xmx2G"
+
+[config-general]
+target_fps = 0
+console = false
+
+[config-graphics]
+icon = "icon.png"
+vsync = false
+
+[config-graphics-desktop]
+width = 848
+height = 480
+resizable = true
+fullscreen = true
