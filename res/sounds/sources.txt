@@ -1,0 +1,4 @@
+
+enemy.ogg: https://www.youtube.com/watch?v=HpD1a2pnvYw
+radio.ogg: https://www.youtube.com/watch?v=fo0G59aygu8
+intermission.ogg: https://www.youtube.com/watch?v=SIAbtLmKoZE
